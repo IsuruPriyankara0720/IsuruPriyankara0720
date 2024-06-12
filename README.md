@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Priyankara</h1>
 <h3 align="center">Cybersecurity Enthusiast | Java & Python Developer | Passionate Learner from SriLanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isurupriyankara0720&label=Profile%20views&color=0e75b6&style=flat" alt="isurupriyankara0720" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isurupriyankara0720&label=Profile%20views&color=0e75b6&style=flat" alt="isurupriyankara0720" /> </p>
 
 
 - 🌱 I’m currently learning **cyber security**
