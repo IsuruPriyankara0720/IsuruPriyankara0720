@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7BC4A&lines=Hi+there!%F0%9F%91%8B;I'm+Isuru+Priyankara...;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<h3 align="center">Cybersecurity Enthusiast | Java & Python Developer | Passionate Learner from SriLanka</h3>
+<h3 align="center">Cybersecurity Enthusiast | Java & Python Developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isurupriyankara0720&label=Profile%20views&color=0e75b6&style=flat" alt="isurupriyankara0720" /> </p>
 
